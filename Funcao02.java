@@ -15,18 +15,18 @@ public class Funcao02
     }
 }
 
-/*1 - O objetivo do código é definir uma classe chamada "Funcao02" que contém um método
-estático chamado "calcular." Este método aceita dois argumentos do tipo double (a e b),
-calcula a expressão (a^2 + 2ab + b^2) e retorna o resultado. Em seguida, no método 'main',
-o método "calcular" é chamado com os valores 2 e 3, e o resultado é impresso na saída padrão.
+/*1 - O objetivo do código é definir uma classe chamada Funcao02 que contém um método
+estático "calcular." Este método aceita dois argumentos do tipo double (a e b), calcula
+a expressão (a*a + 2ab + b*b) e retorna o resultado. Em seguida, no main, "calcular" é
+chamado com os valores 2 e 3, e o resultado é os números 2 e 3 substituirem a e b. 
 
-2.1 - O modificador identificado é 'static', que é usado para declarar um método de classe.
+2.1 - O modificador é 'static', que é usado para declarar um método de classe.
 
-2.2 - O tipo de retorno é 'double', que indica que o método retorna um valor em double.
+2.2 - O tipo de retorno é 'double', indica que o método retorna um valor em double.
 
-2.3 - O método "calcular" é um método de classe (estático) porque é declarado com o modificador
-'static'. Não há função definida neste código, apenas métodos.
+2.3 - O método "calcular" é um método de classe estático porque é declarado com o modificador
+'static'. Não tem função definida no código, apenas métodos.
 
-3 - O método "calcular" está sendo invocado no método 'main' da classe "Funcao02". A origem
-do método "calcular" é a própria classe "Funcao02", pois ele está definido na mesma classe
+3 - O método "calcular" está sendo invocado no método main da classe "Funcao02". A origem
+do método "calcular" é a própria classe "Funcao02", pois está definido na mesma classe
 onde está sendo chamado.*/ 
