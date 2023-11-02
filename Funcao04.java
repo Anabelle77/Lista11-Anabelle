@@ -19,7 +19,7 @@ public class Funcao04
     }
 }
 
-/*1 - O objetivo do código é definir uma classe chamada "Funcao04" que
+/*1 - O objetivo do código é definir uma classe chamada Funcao04 que
 contém um método estático chamado "calcular." Este método aceita dois
 argumentos do tipo double (a e b) e realiza várias operações matemáticas
 usando funções da classe Math. Os resultados dessas operações são impressos.
