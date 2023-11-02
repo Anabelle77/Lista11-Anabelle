@@ -20,8 +20,8 @@ public class Funcao06
     }
 }
 
-/*1 - O objetivo do código é definir uma classe chamada "Funcao06"
-que contém dois métodos de classe (estáticos): "algumasOperacoes"
+/*1 - O objetivo do código é definir uma classe chamada Funcao06
+que contém dois métodos de classe estáticos: "algumasOperacoes"
 e "imprimeValores." O método "algumasOperacoes" aceita três
 argumentos inteiros (a, b e c), realiza uma troca de valores entre
 esses argumentos e imprime os valores antes e depois da troca usando
